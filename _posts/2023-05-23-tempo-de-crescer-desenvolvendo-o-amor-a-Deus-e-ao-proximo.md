@@ -26,8 +26,9 @@ João 14:21 – Qual a lição que você pode tirar desses versículos relaciona
 
 ## DECIDINDO: 
 
-( ) Decido que vou melhorar minha meditação e orar fielmente como uma forma de declaração de amor para o Senhor.
-( ) Decido praticar uma ação de amor fraternal nesta semana (Por mensagem, ou telefonema, etc).
+🔘 Decido que vou melhorar minha meditação e orar fielmente como uma forma de declaração de amor para o Senhor.
+
+🔘 Decido praticar uma ação de amor fraternal nesta semana (Por mensagem, ou telefonema, etc).
 
 ## ORE
 
