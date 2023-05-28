@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1 style="display: none;">{{ page.category | capitalize }}</h1>
+
+{% assign categorySlug = page.category | slugify %}
+{% assign imagePath = "/public/" | append: categorySlug | append: ".jpeg" %}
+
+<img src="{{ site.baseurl }}{{ imagePath }}" alt="{{ page.category }}" title="{{ page.category }}">
+
+<ul>
+  {% for post in site.categories[page.category] %}
+    <li>
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.date | date_to_string }}</p>
+    </li>
+  {% endfor %}
+</ul>
