@@ -21,6 +21,25 @@ h6 a {
     font-weight: 400;
 }
 
+h2.category {
+    font-family: sans-serif;
+    text-transform: uppercase;
+
+    color: #ff8600;
+
+    letter-spacing: .35em;
+    font-size: .5625rem;
+}
+
+h2.related-title {
+    font-size: .5625rem;
+    font-family: sans-serif;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    font-weight: 800;
+    line-height: 1.65;
+}
+
 .post-date {
     font-size: .625rem;
     font-style: italic;

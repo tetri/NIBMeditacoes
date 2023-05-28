@@ -7,14 +7,14 @@ tagline: "Meditações semanais"
 description: 'Meditações semanais utilizadas nos grupos de amigos da Nova Igreja de Cascavel.'
 url: https://tetri.github.io/NIBMeditacoes
 baseurl: ""
-paginate: 5
-permalink: pretty
+paginate: 1
+permalink: /:slugified_categories/:title:output_ext
 
 # About/contact
 author:
-  name: Tetri Mesquita
-  url: https://tetri.dev
-  email: contato@tetri.dev
+  name: NIB Cascavel
+  url: https://www.nibcascavel.org
+  email: nibpr@hotmail.com
 
 # Gems
 plugins:

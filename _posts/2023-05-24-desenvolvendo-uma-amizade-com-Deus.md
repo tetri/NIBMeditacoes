@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Tempo de Crescer∶ Desenvolvendo uma amizade com Deus
+title: Desenvolvendo uma amizade com Deus
+category: Tempo de Crescer
 ---
 
 > Aproximem-se de Deus, e Ele se aproximará de vocês!

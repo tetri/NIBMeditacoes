@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Tempo de Crescer∶ Desenvolvendo a paciência
+title: Desenvolvendo a paciência
+category: Tempo de Crescer
 ---
 
 > Alegrem-se na esperança, sejam pacientes na tribulação, perseverem na oração.
