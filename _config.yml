@@ -1,7 +1,10 @@
 # Setup
-title: Meditações da Nova Igreja de Cascavel
-tagline: "Meditações"
-description: 'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+language: pt_BR
+lang: pt_BR
+locale: "pt-BR"
+title: Nova Igreja de Cascavel
+tagline: "Meditações semanais"
+description: 'Meditações semanais utilizadas nos grupos de amigos da Nova Igreja de Cascavel.'
 url: http://lanyon.getpoole.com
 baseurl: ""
 paginate: 5

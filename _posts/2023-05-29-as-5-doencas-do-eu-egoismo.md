@@ -1,0 +1,41 @@
+---
+layout: post
+title: As 5 doenças do "EU" – Egoísmo
+---
+
+Essa semana faremos um check-up do nosso coração. Estudaremos sobre 5 doenças que podem afetar a nossa alma. Como filhos de Deus, temos que ter sabedoria para identificar se elas estão querendo se alojar em nós, e coragem para tomar o remédio a fim de eliminar das nossas vidas tais doenças. Vamos juntos?!
+
+> É necessário que ele cresça e que eu diminua.
+<cite>João 3:30</cite>
+
+O dicionário descreve o egoísmo como sendo o amor exclusivo a si próprio, ou seja, viver em função de suas opiniões, seus desejos, sua felicidade. Jesus, ao ser questionado sobre qual o mandamento mais importante, responde que é <q>amar a Deus de todo o coração e de toda a alma, de todo o seu entendimento e de todas as suas forças</q>, e o segundo é <q>amar ao próximo como a si mesmo<q>. Portanto, o sentimento egoísta vai de encontro aos dois principais mandamentos dados por Jesus. Não é errado procurar o próprio bem, errado é colocar isso acima de Deus e do bem ao próximo.
+
+Para esta primeira doença do EU, o egoísmo, o diagnóstico é falta de amor a Deus e ao próximo. Não se esqueça de que tudo que fica no lugar de Deus em nossas vidas é idolatria, e Deus odeia a idolatria a ponto de não haver lugar para os idólatras no seu reino (1° Coríntios 6:9).
+
+Leia e veja o que Jesus espera de você: Provérbios 24:11-12, João 14:21. 
+
+## Pense
+
+Se o egoísmo é o contrário do amor, responda: o amor é o cumprimento da lei, então o que é o egoísmo? O amor cobre uma multidão de pecados, e o egoísmo, o que faz? O amor manifesta Deus, e o egoísmo manifesta quem? Observe alguns sintomas do egoísmo: inveja, ciúme, impaciência, vaidade,
+irritação, mágoa, orgulho, grosserias, irritações. Você sente algum desses sintomas na sua vida? 
+
+## Reflita 
+
+Um jovem artista submeteu um de seus trabalhos a uma Exposição de Arte de grande prestígio, porém, o comitê selecionador o rejeitou. Um dos membros do referido comitê, o renomado pintor Joseph Turner, insistiu que aceitassem a obra do jovem pintor, mas os demais continuaram negando com a desculpa de que não havia sala para colocá-lo. Turner não disse mais nada, mas, sem nenhum alarde, retirou um de seus quadros substituindo-o pelo do jovem artista iniciante.
+
+O que mais temos visto entre nós é o egoísmo. Sempre queremos levar vantagem, e nossas atitudes demonstramo quanto somos ambiciosos e o quanto batalhamos pela satisfação de nossos interesses sem levar em conta aqueles que estão ao nosso redor. Se temos tempo ou bens que nos sobram, então até pensamos nos demais; mas é muito difícil que renunciemos aos nossos próprios interesses em favor de outros.
+
+Quantos de nós seríamos capazes de agir como Abraão que, num momento em que era necessário separar-se de seu sobrinho Ló, ofereceu-lhe a primazia de escolher da terra inteira a parte que mais lhe agradasse, contentando-se em ficar com a parte restante? 
+
+> Porventura não está toda a terra diante de ti? Rogo-te que te apartes de mim. Se tu escolheres a esquerda, irei para a direita; e se a direita escolheres, irei eu para a esquerda.
+<cite>Gênesis 13:9</cite>
+
+## Analise
+
+Faça agora uma análise do seu dia a dia e veja quanto tempo você tem gastado consigo mesmo e quanto tempo você tem dedicado a Deus e ao próximo. Você tem colocado corretamente as prioridades na sua vida? 
+
+## Ore
+
+Peça a Deus para sondar seu coração e revelar em qual situação você tem se colocado acima de Deus e das pessoas. Peça forças a Deus para mudar essa situação. 
+
+Até amanhã!

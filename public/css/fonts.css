@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Merriweather:ital,wght@0,300;1,300&display=swap');
+
+body {
+    font-family: Merriweather, Georgia, serif;
+    font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+    font-family: 'Calistoga', sans-serif;
+    font-weight: 400;
+}
+
+.post-date {
+    font-size: .625rem;
+    font-style: italic;
+}
+
+p {
+    margin: 1.875em 0 !important;
+}
+
+.p,
+p {
+    line-height: 1.875 !important;
+}
+
+blockquote {
+    quotes: "\201C" "\201D";
+
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    font-style: italic;
+    padding: 0.1px 20px;
+
+    box-shadow: rgba(0, 0, 0, 0.1) -4px 9px 25px -6px;
+}
+
+blockquote cite {
+    text-align: right;
+    display: block;
+    font-size: 0.75rem;
+    font-family: sans-serif;
+    font-style: normal;
+    margin-bottom: -20px;
+    color: #999;
+}

@@ -48,13 +48,13 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-size: 12px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -211,6 +211,7 @@ pre code {
 }
 
 /* Quotes */
+/*
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
@@ -226,6 +227,7 @@ blockquote p:last-child {
     padding-left: 1.25rem;
   }
 }
+*/
 
 img {
   display: block;
