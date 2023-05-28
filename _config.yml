@@ -5,7 +5,7 @@ locale: "pt-BR"
 title: Nova Igreja de Cascavel
 tagline: "Meditações semanais"
 description: 'Meditações semanais utilizadas nos grupos de amigos da Nova Igreja de Cascavel.'
-url: https://tetri.github.io/NIBMeditacoes/
+url: https://tetri.github.io/NIBMeditacoes
 baseurl: ""
 paginate: 5
 permalink: pretty
