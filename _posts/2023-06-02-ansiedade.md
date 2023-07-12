@@ -2,7 +2,7 @@
 layout: post
 title: Ansiedade
 category: As 5 doenças do EU
-permalink: "/as-5-doencas-do-eu/:title/"
+permalink: "/as-5-doenças-do-eu/:title/"
 ---
 
 > Não andem ansiosos por coisa alguma, mas em tudo, pela oração e súplicas, e com ação de graças, apresentem seus pedidos a Deus.
