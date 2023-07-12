@@ -8,7 +8,7 @@ description: 'Meditações semanais utilizadas nos grupos de amigos da Nova Igre
 url: https://tetri.github.io/NIBMeditacoes
 baseurl: ""
 paginate: 1
-permalink: /:slugified_categories/:title:output_ext
+permalink: none
 
 # About/contact
 author:

@@ -2,6 +2,7 @@
 layout: post
 title: Desenvolvendo o amor a Deus e ao próximo
 category: Tempo de Crescer
+permalink: "/tempo-de-crescer/:title/"
 ---
 
 > Eu te amo, ó Senhor, minha força.

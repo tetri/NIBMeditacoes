@@ -2,6 +2,7 @@
 layout: post
 title: Desenvolvendo uma amizade com Deus
 category: Tempo de Crescer
+permalink: "/tempo-de-crescer/:title/"
 ---
 
 > Aproximem-se de Deus, e Ele se aproximará de vocês!

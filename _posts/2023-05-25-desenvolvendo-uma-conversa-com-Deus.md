@@ -2,6 +2,7 @@
 layout: post
 title: Desenvolvendo uma conversa com Deus
 category: Tempo de Crescer
+permalink: "/tempo-de-crescer/:title/"
 ---
 
 > Orando em todo o tempo com toda a oração e súplica no Espírito, e vigiando nisto com toda a perseverança e súplica por todos os santos.

@@ -2,6 +2,7 @@
 layout: post
 title: Desenvolvendo a paciência
 category: Tempo de Crescer
+permalink: "/tempo-de-crescer/:title/"
 ---
 
 > Alegrem-se na esperança, sejam pacientes na tribulação, perseverem na oração.

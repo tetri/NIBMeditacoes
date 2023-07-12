@@ -2,6 +2,7 @@
 layout: post
 title: Desenvolvendo um coração agradecido
 category: Tempo de Crescer
+permalink: "/tempo-de-crescer/:title/"
 ---
 
 > Dando graças constantemente a Deus Pai por todas as coisas, em nome de nosso Senhor Jesus Cristo.
